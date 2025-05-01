@@ -91,8 +91,9 @@
 <body>
 
 <header>
-    <h1>Welcome to KK AWS & AZURE DevOps</h1>
-    <h2>KK FUNDA at 6:45 AM</h2>
+    <h1>Welcome to KK AWS & AZURE DevOps New Batch</h1>
+    <h1>On May 25th at HYD form 6:30 AM to 8:30 AM</h1>
+    <h2>KK FUNDA</h2>
 </header>
 
 <div class="content">
