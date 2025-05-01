@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to KK AWS & AZURE DevOps</h1>
-<h1 align="center"> KK FUNDA</h1>
+<h1 align="center"> KK FUNDA at 6:45 AM</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
